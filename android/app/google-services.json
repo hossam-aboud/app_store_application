@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "744590556530",
+    "project_id": "babyzone-ab514",
+    "storage_bucket": "babyzone-ab514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744590556530:android:cd4ce6ca673d2e023131eb",
+        "android_client_info": {
+          "package_name": "com.alled.babyzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744590556530-704vv6hj1b8nre26jpaaiqjhrsjot4vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alled.babyzone",
+            "certificate_hash": "2074fa254b61ffc0df0ae04e36c1b72223212589"
+          }
+        },
+        {
+          "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4p6hnOAJdlHa7JUhPrmpQQXINBGBttVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744590556530:android:64e777eee198aee73131eb",
+        "android_client_info": {
+          "package_name": "com.example.babyzone4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744590556530-tjagh3upgiotvgpksk3p38qtviigla2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babyzone4",
+            "certificate_hash": "2074fa254b61ffc0df0ae04e36c1b72223212589"
+          }
+        },
+        {
+          "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4p6hnOAJdlHa7JUhPrmpQQXINBGBttVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744590556530:android:015cfa10301fc84f3131eb",
+        "android_client_info": {
+          "package_name": "com.example.babyzone_dsahboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744590556530-6ept7b4ju2rvb07v0pmniathc2fvqtpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babyzone_dsahboard",
+            "certificate_hash": "b0b1824014a9bd8a405e70b110bab904fbca0e3e"
+          }
+        },
+        {
+          "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4p6hnOAJdlHa7JUhPrmpQQXINBGBttVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744590556530-2td57jl6c36813r405qlgadun5v125v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
